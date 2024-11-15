@@ -1,0 +1,9 @@
+{
+  "name": "helloworld",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "drogon",
+    "fmt",
+    "sqlite3"
+  ]
+}
